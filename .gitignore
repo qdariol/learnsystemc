@@ -1,1 +1,3 @@
-setup/
+out
+*.vcd
+*.log
